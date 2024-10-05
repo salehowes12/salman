@@ -1,0 +1,68 @@
+.o{
+    color: rgb(148, 166, 57);
+   
+   font-size:60px;
+   
+}
+.d{
+    color: rgb(241, 107, 210);
+    font-size: 30px;
+}
+.q{
+    color: rgb(236, 214, 134);
+    font-size: 19px;
+}
+.f{
+    background-color: rgb(141, 217, 141);
+}
+.t{
+    background-color: chocolate;
+}
+.v{
+    color: rgb(22, 165, 187);
+}
+.po{
+    background-color: rgb(4, 124, 124);
+}
+.p{
+    color: rgb(10, 56, 56);
+}
+#salah{
+    background-color: burlywood;
+}
+.k{
+    background-color: rgb(241, 169, 176);
+   
+}
+.watan{
+    background-color: rgb(148, 129, 186);
+}
+#ccaa{
+    background-color: rgb(234, 180, 142);
+    color: brown;
+    
+}
+li{
+    color: rgb(249, 249, 115);
+}
+.jh{
+    font-size: 25px;
+}
+h1 {
+    content: 10px; 
+    border: solid 40px rgb(76, 43, 43);
+    width: 650px;
+    height: 130px;
+    padding: 10px;
+    margin: 40px;
+    text-align: center; 
+    line-height: 130px; 
+  }
+  
+div{
+    margin:10px;
+    border: 10px; 
+
+    
+  
+}
